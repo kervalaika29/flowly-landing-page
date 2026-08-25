@@ -1,0 +1,12 @@
+{
+  "name": "flowly-landing-page",
+  "version": "1.0.0",
+  "description": "Flowly product landing page (HTML/CSS coursework)",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write index.html"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
